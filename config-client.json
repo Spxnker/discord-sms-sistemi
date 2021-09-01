@@ -1,0 +1,18 @@
+{
+    "object": {
+"botToken": "BOT_TOKEN",
+"seschannelid": "SES_KANAL_İD",
+"guildid": "SUNUCU_İD"
+    },
+
+    "presence": ["🐸","🦄","❄️"], 
+    
+    "simple": {
+        "PhoneNumber": "Mesajın gideceği telefon numarası",
+        "NEXMO_API_KEY": "Dashboard'dan aldığın Api Key",
+        "NEXMO_API_SECRET": "Dashboard'dan aldığın Api Secret",
+        "VirtualNumber": "Dashboard'dan aldığın Telefon numarası."
+     }
+
+    }
+
